@@ -19,7 +19,7 @@ I work across AI product strategy, engineering, and real-world deployment. In my
 ## Featured Work / 代表作
 
 <a href="https://github.com/bluestand-jp/OpenForestUI">
-  <img src="./assets/projects/openforestui-card-3d.png" width="100%" alt="OpenForestUI, an open-source League of Legends broadcast UI framework maintained by Negi at BlueStand." />
+  <img src="./assets/projects/openforestui-card-3d-v2.png" width="100%" alt="OpenForestUI, an open-source League of Legends broadcast UI framework maintained by Negi at BlueStand." />
 </a>
 
 ### [OpenForestUI](https://github.com/bluestand-jp/OpenForestUI)
